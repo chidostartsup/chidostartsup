@@ -9,7 +9,7 @@ Here you’ll find my **open projects**, **learning journal** and **resources** 
 
 ## 🔭 What I’m working on
 - **Vambo AI** — Multilingual, inclusive AI for Africa (developer tools + applied use cases)
-- **Open projects** — Education-focused ML demos, small datasets, and write-ups
+- **Open projects** — Education-focused ML demos, small datasets and write-ups
 
 ---
 
@@ -21,7 +21,7 @@ Here you’ll find my **open projects**, **learning journal** and **resources** 
   👉 https://github.com/chidostartsup/learning-journal-2025
 
 - **🎓 Edu-ML Projects**  
-  Attendance predictors, outcomes dashboards, fairness checks, and small apps.  
+  Attendance predictors, outcomes dashboards, fairness checks and small apps.  
   👉 https://github.com/chidostartsup/edu-ml-projects
 
 - **🌍 Africa Data Notes**  
@@ -29,7 +29,7 @@ Here you’ll find my **open projects**, **learning journal** and **resources** 
   👉 https://github.com/chidostartsup/africa-data-notes
 
 - **🤝 Open Source AI**  
-  Model experiments, white papers, and Hugging Face integrations.  
+  Model experiments, white papers and Hugging Face integrations.  
   👉 https://github.com/chidostartsup/open-source-ai
 
 ---
