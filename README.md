@@ -13,8 +13,6 @@ Here you’ll find my **open projects**, **learning journal** and **resources** 
 
 ---
 
-- **📒 Learning Journal 2025**  
-
 - **📒 [FineWeb-Edu Subject Filter](https://github.com/chidostartsup/edtech-dataset-filter)**  
   Filter out FineWeb-Edu by subject
 
