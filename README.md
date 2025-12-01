@@ -15,6 +15,8 @@ Here you’ll find my **open projects**, **learning journal** and **resources** 
 
 - **📒 [FineWeb-Edu Subject Filter](https://github.com/chidostartsup/edtech-dataset-filter)**  
   Filter out FineWeb-Edu by subject
+- **🌍 [African Languages API](https://github.com/chidostartsup/african-langs-api)**  
+  Flask API for information about African languages
 
 ---
 
