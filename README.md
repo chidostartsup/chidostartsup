@@ -13,24 +13,10 @@ Here you’ll find my **open projects**, **learning journal** and **resources** 
 
 ---
 
-## 📌 Start here (featured repos)
-> Pin these on your profile for quick access (Profile → Customize your pins).
-
 - **📒 Learning Journal 2025**  
-  Weekly reflections + course notes + tiny projects.  
-  👉 https://github.com/chidostartsup/learning-journal-2025
 
-- **🎓 Edu-ML Projects**  
-  Attendance predictors, outcomes dashboards, fairness checks and small apps.  
-  👉 https://github.com/chidostartsup/edu-ml-projects
-
-- **🌍 Africa Data Notes**  
-  Curated public datasets, data dictionaries, and quick EDA notebooks.  
-  👉 https://github.com/chidostartsup/africa-data-notes
-
-- **🤝 Open Source AI**  
-  Model experiments, white papers and Hugging Face integrations.  
-  👉 https://github.com/chidostartsup/open-source-ai
+- **📒 [FineWeb-Edu Subject Filter](https://github.com/chidostartsup/edtech-dataset-filter)**  
+  Filter out FineWeb-Edu by subject
 
 ---
 
